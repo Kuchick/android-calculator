@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">P003</string>
+    <string name="clearHistory">Очистить историю</string>
+    <string name="about">О программе</string>
+</resources>
